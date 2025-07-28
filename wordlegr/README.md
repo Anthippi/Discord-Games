@@ -77,10 +77,10 @@ pip install discord.py python-dotenv
 <table>
   <tr>
     <td align="left">
-      <img src="https://github.com/user-attachments/assets/9511f37d-6180-4e07-a780-256db691877e" alt="Wordle" width="400"/>
+      <img src="https://github.com/user-attachments/assets/9511f37d-6180-4e07-a780-256db691877e" alt="Wordle" width="500"/>
     </td>
     <td align="right">
-      <img src="https://github.com/user-attachments/assets/712f3e50-a47d-4475-90c7-1adf65692e45" alt="Wordle" width="400"/>
+      <img src="https://github.com/user-attachments/assets/712f3e50-a47d-4475-90c7-1adf65692e45" alt="Wordle" width="500"/>
     </td>
   </tr>
 </table>
