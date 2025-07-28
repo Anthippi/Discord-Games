@@ -67,7 +67,7 @@ pip install discord.py python-dotenv
 
 - ###  Εντολές
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0d5e4e72-3e2a-4d9f-bb1b-a4ca1bc012d3" alt="Wordle" width="800"/><br><br>
+  <img src="https://github.com/user-attachments/assets/0d5e4e72-3e2a-4d9f-bb1b-a4ca1bc012d3" alt="Wordle" width="1000"/><br><br>
   <img src="https://github.com/user-attachments/assets/cdcde35c-1b7e-49cf-bf2c-387a9c93d301" alt="Wordle" width="800"/>
 </p>
 
